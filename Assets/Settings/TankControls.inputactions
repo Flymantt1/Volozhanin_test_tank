@@ -109,9 +109,9 @@
                 },
                 {
                     "name": "Focus",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "935e9532-60a2-449b-9190-241eff526965",
-                    "expectedControlType": "Vector2",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -132,7 +132,7 @@
                 {
                     "name": "",
                     "id": "dce6e5ec-9f39-4c15-9f4e-c733399332c1",
-                    "path": "<Mouse>/delta",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
